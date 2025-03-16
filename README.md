@@ -1,1 +1,3 @@
-This repository serves as an example that does not meet the essential criteria for the repository assessment tool
+# ResNet18 Image Classifier
+
+This is an image classification project using ResNet18.
