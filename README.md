@@ -1,3 +1,3 @@
 # ResNet18 Image Classifier
 
-This is an image classification project using ResNet18.
+This is an image classification project using ResNet18 in PyTorch.
